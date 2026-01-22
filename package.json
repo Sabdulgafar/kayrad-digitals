@@ -1,0 +1,25 @@
+{
+  "name": "kayrad-digitals",
+  "version": "1.0.0",
+  "description": "High-end, clean, minimalist static webpage. Think Apple meets a modern design studio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sabdulgafar/kayrad-digitals.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Sabdulgafar/kayrad-digitals/issues"
+  },
+  "homepage": "https://github.com/Sabdulgafar/kayrad-digitals#readme",
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.18",
+    "tailwindcss": "^4.1.18"
+  }
+}
