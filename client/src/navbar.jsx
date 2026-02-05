@@ -7,7 +7,7 @@ const NavBarLinks = [
     {id: 4, name: "Portfolio", href: "#"}
 ]
     return(
-        <nav className="bg-slate-900 w-full p-2.5 rounded-t-xl">
+        <nav className="bg-slate-900 w-full p-2.5 rounded-b-xl">
             <div className="flex flex-3 flex-row justify-between text-white">
                 <div className="ml-4 mt-1.5"><span className="text-lg bg-white text-black p-1 rounded-full">KR</span><span className="text-lg">D</span></div>
                 <div className="max-sm:hidden">
